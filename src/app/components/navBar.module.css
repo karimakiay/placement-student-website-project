@@ -1,15 +1,16 @@
 .navBar {
   display: flex;
-  align-items: center;
+  align-items: right;
   justify-content: center;
   width: 100%;
   font-family: 'Roboto', sans-serif;
-  background-color: var(--nav-background-color);
+  background: none;
 }
 
 .navLink {
+  position:relative;
   font-size: 28px;
-  line-height: 30px;
+  line-height: 28px;
   padding: 0.2rem 1rem;
   background: none;
   width: auto;
@@ -17,3 +18,5 @@
     text-decoration: underline;
   }
 }
+
+

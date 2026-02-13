@@ -43,11 +43,11 @@ a {
 }
 
 :root {
-  --nav-background-color: #08f63c;
-  --nav-hover-color: #08f63c;
+  --nav-background-color: #3f291ac5;
+  --nav-hover-color: #edededbd;
   --nav-outline-color: var(--mantine-color-dark-9);
   --link-color-active: var(--mantine-color-dark-9);
   --link-color-inactive: var(--mantine-color-dark-5);
-  --title-text-color: #50742b;
+  --title-text-color: #000000;
   --body-text-color: #2d8dc6;
 }
